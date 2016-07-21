@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf07a21-c46d-4f7e-b4e1-05610f8216c6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ToolBox/Singleton.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week2/.idea/Week2.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week2/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week2/.idea/copyright/profiles_settings.xml" />
@@ -23,7 +24,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week2/day1/Day1bubblesort.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week2/day1/day1Fizzbuzz.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ToolBox/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ToolBox/.idea/workspace.xml" />
     </list>
     <ignored path="src.iws" />
     <ignored path=".idea/workspace.xml" />
